@@ -1,7 +1,7 @@
 import 'package:geolocator_platform_interface/geolocator_platform_interface.dart';
 
 /// Represents different Android specific settings with which you can set a value
-/// other then the default value of the setting.
+/// other than the default value of the setting.
 class AndroidSettings extends LocationSettings {
   /// Initializes a new [AndroidSpecificSettings] instance with default values.
   ///
